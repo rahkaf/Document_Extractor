@@ -1,0 +1,6 @@
+PyMuPDF 
+python-docx 
+Pillow 
+pytesseract
+mimetypes
+fitz
